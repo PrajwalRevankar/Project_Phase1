@@ -9,8 +9,8 @@ public class Alpha {
 	public static void main(String[] args) throws IOException {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("***********************");
-		System.out.println("Welcome to LOCK ME :)");
-		System.out.println("LockerMe.com");
+		System.out.println("Welcome to Lockers Pvt. Ltd :)");
+		System.out.println("LockedMe.com");
 		System.out.println("Developed by Prajwal N");
 		System.out.println("***********************");
 		File fdir = new File("C:\\PROJECT_DIR");
