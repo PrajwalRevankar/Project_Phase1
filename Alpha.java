@@ -18,7 +18,7 @@ public class Alpha {
 		String Dpath = fdir.getAbsolutePath();
 		while(true) {
 			System.out.println("Enter 1 to list file:");
-			System.out.println("Enter 2 to perform file operation:");
+			System.out.println("Enter 2 to perform Business operation:");
 			System.out.println("Enter 3 to exit:");
 			int ip = sc.nextInt();
 			if(ip == 1) {
